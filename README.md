@@ -4,13 +4,13 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-## 🏘️ Connect
+## Connect
 
 [![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/wintermi)
 [![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/wintermi/)
 
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=blue)
 
@@ -26,6 +26,9 @@
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=blue)
+
+[![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)](https://cloud.google.com/)
+[![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=blue)](https://azure.microsoft.com/)
 
 
 ## My Github Statistics
