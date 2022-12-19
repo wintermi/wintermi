@@ -33,5 +33,5 @@
 
 ## My Github Statistics
 
-![Matthew's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=wintermi&show_icons=true&theme=radical)
+![Matthew's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=wintermi&count_private=true&show_icons=true&theme=tokyonight)
 
