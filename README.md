@@ -17,6 +17,9 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=blue)
 
+[![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)](https://cloud.google.com/)
+[![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=blue)](https://azure.microsoft.com/)
+
 ![](https://img.shields.io/badge/Code-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=blue)
@@ -26,9 +29,6 @@
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=blue)
-
-[![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)](https://cloud.google.com/)
-[![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=blue)](https://azure.microsoft.com/)
 
 
 ## My Github Statistics
