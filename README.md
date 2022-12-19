@@ -6,8 +6,8 @@
 
 ## 🏘️ Connect
 
-![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue&link=https://twitter.com/wintermi)
-![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/wintermi/)
+[![](https://img.shields.io/badge/-Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=blue)](https://twitter.com/wintermi)
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/wintermi/)
 
 
 ## 🔧 Technologies & Tools
