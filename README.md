@@ -1,8 +1,14 @@
 # Welcome 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wintermi.visitor-badge)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+## About
+
+Welcome, I am Matthew Winter, a Principal Architect at Google.  Originally from the United Kingdom, before migrating to Melbourne, Australia which has now been my home for 15+ years.
+
+I am a seasoned technical professional with 22+ years of data, analytics and cloud experience from various past and current roles including Engineering, Sales Engineering, Solution Architecture and Consultancy.  I am known for my passion and drive to succeed, along with an unending energy and work ethic.
+
+In an attempt to push myself to share my experiences and learnings publicly, I have been creating these GitHub repositories.  Initially focused on the technology I am exploring both in my personal quests as well as working with customers to help deliver transformative and innovative solutions using Google Cloud.  I hope that you find them useful.
 
 ## Ways to Connect
 
