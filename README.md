@@ -40,5 +40,6 @@ In an attempt to push myself to share my experiences and learnings publicly, I h
 
 ## My Github Statistics
 
-![Matthew's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=wintermi&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=wintermi&count_private=true&show_icons=true&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=wintermi&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
