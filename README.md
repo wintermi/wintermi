@@ -1,7 +1,5 @@
 # Welcome 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wintermi.visitor-badge)
-
 ## About
 
 Welcome, I am Matthew Winter, a Principal Architect at Google Cloud.  Originally from the United Kingdom, before migrating to Melbourne, Australia which has now been my home for 15+ years.
@@ -45,4 +43,3 @@ In an attempt to push myself to share my experiences and learnings publicly, I h
 [![GitHub Streak](https://streak-stats.demolab.com?user=wintermi&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/wintermi/count.svg)
-
