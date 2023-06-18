@@ -39,8 +39,39 @@ In an attempt to push myself to share my experiences and learnings publicly, I h
 
 ## My Github Statistics
 
-![GitHub Statistics](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wintermi&count_private=true&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wintermi&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p>
+  <img src="https://profile-counter.glitch.me/wintermi/count.svg" />
+</p>
 
-![Visitor Count](https://profile-counter.glitch.me/wintermi/count.svg)
+<p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wintermi&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=466"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wintermi&theme=buefy&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=466"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintermi&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=466"/>
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=wintermi&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=wintermi&theme=buefy&count_private=true&show_icons=true&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=wintermi&count_private=true&show_icons=true&rank_icon=github"/>
+  </picture>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wintermi&theme=tokyonight" />
+</p>
