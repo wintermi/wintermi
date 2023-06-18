@@ -20,11 +20,12 @@ In an attempt to push myself to share my experiences and learnings publicly, I h
 
 [![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=for-the-badge&logo=google-cloud&logoColor=white&color=blue)](https://cloud.google.com/)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=for-the-badge&logo=vim&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-NeoVim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Arch-informational?style=for-the-badge&logo=archlinux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue)
