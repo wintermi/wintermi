@@ -28,6 +28,7 @@ In an attempt to push myself to share my experiences and learnings publicly, I h
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=for-the-badge&logo=apple&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Code-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Zig-informational?style=for-the-badge&logo=zig&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=blue)
