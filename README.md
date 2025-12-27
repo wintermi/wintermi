@@ -37,8 +37,3 @@ In an attempt to push myself to share my experiences and learnings publicly, I h
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=blue)
-
-
-## My Github Statistics
-
-<p><img src="https://streak-stats.demolab.com/?user=wintermi&theme=tokyonight&count_private=true" /></p>
